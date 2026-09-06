@@ -14,3 +14,6 @@ This repo basically make bomb so many junk file as a prank 😉
 **simply run the "Punky HouseHolder.exe"**
 
 <img width="990" height="126" alt="image" src="https://github.com/user-attachments/assets/138b55b3-a9e6-44d7-bed0-87c50db915f0" />
+
+
+# Both file "Punky HouseHolder.exe" and "project.dllp" are important to run the prank file- Punky HouseHolder.exe so, don't do anything with "project.dllp" file
