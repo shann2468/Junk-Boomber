@@ -6,7 +6,21 @@
 
 This repo basically make bomb so many junk file as a prank 😉 
 
+# Description:
+A brutal, high-speed junk file generator built to overwhelm target directories and induce immediate panic. Junk Bomber aggressively floods the system with useless data, simulating a severe storage exhaustion attack. It is a raw, disruptive prank tool designed for maximum annoyance.
 
+# Core Features:
+
+*Relentless and rapid payload execution.*
+
+*Instantly clutters workspaces with thousands of garbage files.*
+
+*Engineered to maximize target frustration and confusion.*
+
+*Simple to execute, chaotic to clean up.*
+
+# Disclaimer:
+This tool causes significant disruption. Deploy only on authorized systems with explicit consent. You are entirely responsible for the resulting chaos and system lagging.
 
 
 # How to run
